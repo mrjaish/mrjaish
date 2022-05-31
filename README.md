@@ -2,7 +2,7 @@
 - 👀 I’m interested in make a project with different languages like python, PHP with Mysql etc.
 - 🌱 I’m currently learning Crypto/Solidity.
 - 💞️ I’m looking to collaborate with Programmer's who likes Coding.
-- 📫 How to reach me ...
+- 📫 How to reach me https://github.com/mrjaish
 
 <!---
 mrjaish/mrjaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
